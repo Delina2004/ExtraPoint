@@ -28,9 +28,3 @@ The project is divided into three files:
 2. **`DateTime.cpp`** - Source file that implements the methods of the `DateTime` class.
 3. **`main.cpp`** - Main program that demonstrates the use of the `DateTime` class.
 
-## Compilation Instructions
-
-To compile the project, use the following command:
-
-```bash
-g++ -o DateTimeApp DateTime.cpp main.cpp
